@@ -9,18 +9,3 @@
 * Move tiles in grid to order them from 1 to 15. To move a tile you can click it in box. Once you arranged you win!
 ---
 
-
-
-# Screenshots
-![SS1](https://user-images.githubusercontent.com/64265337/164916976-fec4741b-2e0f-4428-9e92-65585f4df611.png)
-![SS2](https://user-images.githubusercontent.com/64265337/164916979-600c09c4-7328-474b-9c28-ca624de8dcb2.png)
-<p align="center" >
-<img src="https://user-images.githubusercontent.com/64265337/164917073-41f9f04e-52e7-4215-8932-a36c946f85be.jpeg" width="35%"/>
-&nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/64265337/164916956-ec831afd-85c3-4ca4-ba32-96d66e0bf9a5.jpeg"width="35%"/>
-</p>
-
----
-
-
-
